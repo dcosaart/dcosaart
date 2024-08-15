@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dcosaart, with two ss's, oops.
+- 👋 Hi, I’m @dcosaart, with two s's, oops.
 - 👀 I’m interested in learning more about AI and using it to my advantage.  Furthermore, I wish to dive deeper into working with API's and data science.
 - 🌱 I’m currently learning web programming languages like JavaScript, CSS, HTML, and PHP.  Also, working with databases, and, in the near future, Java.
 - 💞️ I’m looking to collaborate on website creation projects, using REACT and other resources.  Additionally, with projects involving AI.  
